@@ -1,8 +1,12 @@
 h1{
-    color:brown ;
+    color:red ;
     text-align: center;
 }
 main {
     color:yellow;
     text-align: center;
+}
+footer{
+    text-align: center;
+    color:green;
 }
